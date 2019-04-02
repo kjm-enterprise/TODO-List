@@ -11,7 +11,7 @@ If You are having issues with a project turn task to ```code``` or reach out to 
 * Peer to peer messaging (Michael)
 * Recycler / List View implementation (Michael)
 * Profile images (James)
-* Mipmap Launcher Icon (James)
+* **Mipmap Launcher Icon (James)**
 * Second level fragments (Michael)
 * Google sign-in (Kanyon) 
 * Android side database (Kanyon / Michael)
