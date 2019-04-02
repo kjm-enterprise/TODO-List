@@ -7,12 +7,13 @@ If You are having issues with a project turn task to ```code``` or reach out to 
 
 ## FrontEnd
 
-* Fragments all Built (Kanyon / Michael)
-* Peer to peer messaging (Michael)
+* **Fragments all Built (Kanyon / Michael)**
+* Fragments to be styled 
+* *Peer to peer messaging (Michael)*
 * Recycler / List View implementation (Michael)
 * Profile images (James)
 * **Mipmap Launcher Icon (James)**
-* Second level fragments (Michael)
+* *Second level fragments (Michael)*
 * Google sign-in (Kanyon) 
 * Android side database (Kanyon / Michael)
 * Actual Matching of person to person (Kanyon)
