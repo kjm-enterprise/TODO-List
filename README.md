@@ -14,7 +14,7 @@ If You are having issues with a project turn task to ```code``` or reach out to 
 * Profile images (James)
 * **Mipmap Launcher Icon (James)**
 * *Second level fragments (Michael)*
-* **Google sign-in (Kanyon) 
+* **Google sign-in (Kanyon)**
 * Android side database (Kanyon / Michael)
 * Actual Matching of person to person (Kanyon)
 
